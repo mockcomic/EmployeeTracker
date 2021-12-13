@@ -1,6 +1,12 @@
 # Week12Challenge-EmployeeTracker
+
+# Note Taker Starter Code
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+## Description
+This application allows you to keep tack of employees and their roles within different departments.
  
- ## User Story
+## User Story
 AS A business owner
 I WANT to be able to view and manage the departments, roles, and employees in my company
 SO THAT I can organize and plan my business
@@ -24,3 +30,8 @@ THEN I am prompted to enter the name, salary, and department for the role and th
 THEN I am prompted to enter the employee’s first name, last name, role, and manager, and that employee is added to the database
 ### WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
+
+## License
+Apache 2.0 License 
+
+
