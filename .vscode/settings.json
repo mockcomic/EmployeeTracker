@@ -4,5 +4,20 @@
         "Kash",
         "Lourd",
         "Malia"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "username": "root",
+            "password": "Acdf#1221991",
+            "database": "employees_db",
+            "name": "vs code"
+        }
     ]
 }
